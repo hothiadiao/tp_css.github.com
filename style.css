@@ -1,0 +1,75 @@
+.texte1 {
+    text-align: center;
+    color: green;
+
+}
+img{
+    float: left;
+    max-width: 80%;
+    position: center;
+    margin-left: 50px;
+}
+
+.paragraphe1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-right: 15px;
+    margin-left: 50px;
+   
+    
+}
+a {
+    color: blue;
+}
+.impact {
+    color: red;
+}
+.paragraphe2 {
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+.paragraphe3 {
+    padding-top: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-right: 15px;
+    margin-left: 50px;
+}
+.paragraphe4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-right: 15px;
+    color: rgb(241, 16, 226);
+    margin-left: 50px;
+
+}
+ul {
+    margin-left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-right: 15px;
+}
+.orange {
+        font-weight: bold;
+}
+.tv5-monde {
+    font-weight: bold;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+   margin-left: 50px;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
+  th {
+    color: red;
+  }
+ 
